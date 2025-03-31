@@ -1,0 +1,6 @@
+1. Faker getting started
+2. API POST file JSON and form-data
+3. Image(s),location(s) random generation script
+4. Faking api/plantation/create/
+5. Create variations
+6. Detail location choosing e.g(Uzbekistan,Jizzakh region, Zaamin district)
